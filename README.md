@@ -11,15 +11,14 @@ To set up this project on your local machine:
 
 1. Clone the repository:
 
-git clone [repository URL]
-
+        git clone [repository URL]
 
 2. Navigate to the project directory:
 
-cd [local repository]
-
+        cd [local repository]
 
 3. (Optional) If you have a specific environment or dependency setup, include those instructions here.
+
 
 ## Usage
 To run the project:
@@ -27,10 +26,7 @@ To run the project:
 1. Ensure you have Python installed on your machine.
 2. Execute the script with:
 
-python decision_tree_model.py
-
-
-Replace `decision_tree_model.py` with the actual script name.
+        python decision_tree_model.py
 
 ## Data
 This project uses candidate interview data, including attributes like `level`, `lang`, `tweets`, and `grad_degree`. While the actual dataset used is confidential, the model can be adapted for similar datasets in interview outcome prediction.
