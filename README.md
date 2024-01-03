@@ -17,9 +17,6 @@ To set up this project on your local machine:
 
         cd [local repository]
 
-3. (Optional) If you have a specific environment or dependency setup, include those instructions here.
-
-
 ## Usage
 To run the project:
 
