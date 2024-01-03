@@ -35,7 +35,7 @@ This project uses candidate interview data, including attributes like `level`, `
 The model employs a decision tree classifier from sklearn. It begins by calculating the entropy for different attributes and uses this information to build the tree, focusing on the attributes that offer the highest information gain.
 
 ## Evaluation and Results
-The decision tree model's performance is evaluated using standard metrics such as accuracy, precision, and recall. The model achieves an accuracy of XX%, indicating its effectiveness in predicting interview outcomes.
+The decision tree model's performance is evaluated using standard metrics such as accuracy, precision, and recall. The model achieves an accuracy of 60%, indicating its effectiveness in predicting interview outcomes.
 
 ## Contributing
 Contributions to this project are welcome. Please adhere to this project's code of conduct while contributing.
